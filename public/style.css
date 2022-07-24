@@ -1,0 +1,127 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.formsection{
+    background: url('image/background.jpg') no-repeat center center/cover;
+    height: 600px;
+    /* width: 100%; */
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.hide{
+display: none;
+}
+.show{
+display: block;
+}
+.btn-width{
+width: 190px;
+border-radius: 5px;
+margin: 3px;
+font-size: 1rem;
+}
+.propertyform{
+    width: 41rem;
+    margin:auto;
+    height:10rem;
+    border-radius: 5px;
+    background-color:#5A5959;
+    display: inline;
+    padding: 5px;
+    /* opacity: 0.6; */
+}
+.truvalue{
+    width: 41rem;
+    margin:auto;
+    height:9rem;
+    border-radius: 5px;
+    background-color:#5A5959;
+    display: inline;
+    padding: 5px;
+    /* opacity: 0.6; */
+}
+.dropdownButton{
+    /* background-color: white; */
+    width: 152px;
+    height: 45px;
+    border-radius: 4px;
+    margin: 2px;
+}
+.input{
+    background-color: white;
+    width: 309px;
+    height: 47px;
+    border-radius: 4px;
+    border: none;
+    margin: 2px;
+   list-style-type: none;
+}
+
+.category{
+    
+    height: auto;
+    width: 350px;
+   
+    border-radius: 10px;
+}
+.purpose{
+    height: auto;
+    width: 240px;
+    border-radius: 10px;
+}
+.truvaluePurpose{
+    width: 30px;
+    padding: 3px;
+    margin: 3px;
+    height: 28px;
+}
+.btnpurpose{
+    width: 125px;
+    width: auto;
+    border-radius: 10px;
+    padding: 3px;
+    margin: 2px 3px;
+}
+.btn-w{
+    width: 160px;
+    height: 30px;
+    margin: 2px 3px;
+    border-radius: 20px;
+    padding: 1px;
+}
+
+.box{
+    height: 300px;
+    width: 33%;
+    margin: 8px;
+    border-radius: 10px;
+}
+#box1{
+    background: url('https://www.bayut.com/assets/truCheckCardSmallBackground_noinline.bb74c1b37c5aeae705e739c847b51255.svg') 
+}
+#box2{
+    background: url('https://www.bayut.com/assets/iconCommuteCard_noinline.6c4e9fd28593d97258bfc72a5dce4cad.svg') no-repeat center center/cover;
+}
+#box3{
+    background: url('https://www.bayut.com/assets/mapViewCardSmallBackground_noinline.97505e844a8982d59131ce15ead6dc84.svg') no-repeat center center/cover;
+}
+.sec-heading{
+    margin: 5px 20px;
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
+.sec-content{
+    margin: 15px 20px;
+    width: 50%;
+    font-size: 1.2rem;
+    color: black;
+}
+.sec2{
+    height: 250px;
+    width: 100%;
+    border-radius: 10px;
+}
